@@ -11,7 +11,4 @@ class Fibonacci
     end
   end
   
-  20.times do |n|
-    puts Fibonacci.new.calculate(n)
-  end
   
